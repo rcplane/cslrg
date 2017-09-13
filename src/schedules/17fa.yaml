@@ -41,6 +41,10 @@ meetings:
             MICRO 2017.
 
             And [Amazon DSSTNE](https://github.com/amzn/amazon-dsstne), if we can find something useful to read about it.
+            *For skimming: [DSSTNE: Deep Learning At Scale For Large Sparse Datasets.](https://qconlondon.com/london-2017/system/files/presentation-slides/scott.pdf)
+            Scott Le Grand.
+            Teza Technologies.
+            A conversational style slide deck laying out Amazon motivations for applying MPI based distributed deep learning to the sparse data problem of product recommendations.
 
     -
         day: '2017-10-11'
